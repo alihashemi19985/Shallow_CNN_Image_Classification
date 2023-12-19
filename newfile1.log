@@ -9,3 +9,5 @@
 2023-12-19 14:56:00,445  Epoch: 1, Train Loss: 1.7426, Train Acc: 71.54,         Val Loss: 1.6617, Val Acc: 79.50
 2023-12-19 14:56:56,840 Saving checkpoint...
 2023-12-19 14:56:56,849  Epoch: 2, Train Loss: 1.6246, Train Acc: 83.53,         Val Loss: 1.5842, Val Acc: 88.04
+
+
